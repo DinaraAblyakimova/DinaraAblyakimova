@@ -10,9 +10,12 @@
   <a href="https://t.me/dinarablyakim">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+     <a href="https://t.me/dinarablyakim">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
-  <div id="langs" algin ="left">
+  <div algin ="left">
     <h3> Languages and tools</h3>
  </div>
 <div align="center">
