@@ -1,5 +1,5 @@
   <div id="header" align="left">
-  <h1> Hi everyone, I'm Dinara!👋</h1>
+  <h1> Hi there, I'm Dinara!👋</h1>
   <h3>Developer from 📍Simferopol</h3>
 </div>
 <div align="left">
@@ -33,7 +33,9 @@
     title="git" width="40" style="display: inline-block;">&nbsp;
 </div>
 
-
+<p>
+  
+</p>
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinaraAblyakimova&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinaraAblyakimova&theme=github_dark" alt=""/>
