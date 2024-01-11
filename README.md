@@ -2,9 +2,8 @@
   <h1> Hi there, I'm Dinara!👋</h1>
   <h3>Developer from Simferopol</h3>
 </div>
-
+<h4># Connect with me</h4>
 <div align="center">
-<h4 lign="center" >#Connect with me</h4>
   <a href="https://discord.com/dinarablyakim">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
@@ -33,7 +32,6 @@
     title="npm" width="40" style="display: inline-block;">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
     title="git" width="40" style="display: inline-block;">&nbsp;
-
 </div>
 
 
