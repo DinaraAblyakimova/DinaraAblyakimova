@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1> Hi there, I'm Dinara!👋</h1>
-  <h3>Developer from Simferopol</h3>
+  <h3>Developer from 📍Simferopol</h3>
 </div>
 <div align="center">
   <a href="https://discord.com/dinarablyakim">
