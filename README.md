@@ -34,9 +34,7 @@
     title="git" width="40" style="display: inline-block;">&nbsp;
 </div>
 
-<p>
-  
-</p>
+
 <div id="stat" align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinaraAblyakimova&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DinaraAblyakimova&theme=github_dark" alt=""/>
