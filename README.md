@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<div id="header" align="left">
+<div id="header" align="center">
   <h1> Hi there, I'm Dinara!👋</h1>
   </div>
   <div id="header" align="center">
@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<h3> Languages and tools</h3>
+  <div algin ='left'>
+    <h3> Languages and tools</h3>
+ </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     title="JS" width="40" style="display: inline-block;">&nbsp;
