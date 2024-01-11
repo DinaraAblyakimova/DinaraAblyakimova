@@ -3,6 +3,7 @@
   <h3>Developer from 📍Simferopol</h3>
 </div>
 <div align="left">
+  <h4>#Connect with me</h4>
   <a href="https://discord.com/dinarablyakim">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
