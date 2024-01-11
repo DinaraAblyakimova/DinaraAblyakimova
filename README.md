@@ -4,14 +4,11 @@
 </div>
 
 <div align="center">
-<h4>#Connect with me</h4>
+<h4 lign="center" >#Connect with me</h4>
   <a href="https://discord.com/dinarablyakim">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://t.me/dinarablyakim">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-     <a href="https://ablyakimova.dinara@gmail.com">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
