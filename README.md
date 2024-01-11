@@ -1,8 +1,8 @@
-  <div id="header" align="center">
-  <h1> Hi, I'm Dinara!👋</h1>
+  <div id="header" align="left">
+  <h1> Hi everyone, I'm Dinara!👋</h1>
   <h3>Developer from 📍Simferopol</h3>
 </div>
-<div align="center">
+<div align="left">
   <a href="https://discord.com/dinarablyakim">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
@@ -14,7 +14,7 @@
   <div algin ="left">
     <h3> Languages and tools</h3>
  </div>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     title="JS" width="40" style="display: inline-block;">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
