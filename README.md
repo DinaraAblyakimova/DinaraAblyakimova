@@ -10,9 +10,6 @@
   <a href="https://t.me/dinarablyakim">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-   <a href=""mailto:dinara.ablyakimova@gmail.com"">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
 </div>
 
   <div algin ="left">
